@@ -1,0 +1,39 @@
+
+   h1 {color: Purple; 
+       font-family:magneto;
+       text-align: center;
+       border-style:solid;
+       border-width: thin;
+       padding: 10px 10px 10px 10px;
+       
+   }
+       h2{color:rgb(50,35,75);
+           font-family:chiller;
+           
+       }
+       p{text-align:justify;
+           font-family:ariel;
+               
+       }
+       body{background-color:lightcyan;
+           
+       }
+
+#list{
+    color:green;
+}
+
+li{
+    color:red;
+}
+
+.list-class{
+    background-color:purple;
+}
+.list-class-1 {
+    background-color: blue;
+}
+
+a:hover {
+    background-color: green;
+}
